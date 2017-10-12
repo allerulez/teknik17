@@ -25,7 +25,6 @@
 1 hotspare
 
 # Inputs
-| ----- | ------ |
 | Kanal | Sak    |
 | ----- | ------ |
 |     1 | LES    |
@@ -81,10 +80,8 @@
 |    46 | ?      |
 |    47 | OH L   |
 |    48 | OH R   |
-| ----- | ------ |
 
 # Outputs
-| ------ | ---------- |
 |    Mix | Sak        |
 | ------ | ---------- |
 |      1 | Trummor    |
@@ -123,14 +120,11 @@
 |     14 |            |
 |     15 | Sub        |
 |     16 | Center     |
-| ------ | ---------- |
 
 # FX-rack
-| ---- | ---------- | -------- | ------ |
 | Rack | FX         | Input    | Output |
 | ---- | ---------- | -------- | ------ |
 |    1 | Sångreverb | Matris 1 | ST1    |
 |    2 | Sångdelayy | Matris 2 | ST2    |
 |    3 | Blåsreverb | Matris 3 | ST3    |
 |    4 | Trumreverb | Matris 4 | ST4    |
-| ---- | ---------- | -------- | ------ |
