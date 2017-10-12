@@ -1,0 +1,82 @@
+- Mixer: Yamaha M7CL + stagebox
+- Notställ till mixer (Henrik är avundsjuk på Karl)
+- 2x3.5mm uttag vid FOH
+- Talkback-mick
+- iPad + WLAN
+- 6 trådlösa bommikrofoner + 1 hotspare
+- 6 trådlösa handmikrofoner
+- Mikrofoner till Flöjt, klarr, sax, 2x trumpet, trombon, trumset
+- DI-box (stereo) till elpiano
+- Poddar till 2x elgitarr, bas
+- 2x extra SM57 (eller motsv.)
+- Mikrofonstativ till ovanstående
+- In-Ear medhörning för 10 kanaler.
+- Två länkade scenmonitorer för bruk som sidefill.
+- Kablage till ovanstående, inklusive lämpliga snakes.
+- Hjälp att rigga trådlösa mikrofoner och mixer.
+-
+
+
+
+1 Wl
+5 kör
+6 skådis
+1 hotspare
+
+|-------+--------|
+| Kanal | Sak    |
+|-------+--------|
+|     1 | LES    |
+|     2 | EDW    |
+|     3 | VLA    |
+|     4 | BAT    |
+|     5 | BEL    |
+|     6 | DRA    |
+|     7 | HOT    |
+|     8 | S-BUSS |
+|-------+--------|
+|     9 | Kör    |
+|    10 | Kör    |
+|    11 | Kör    |
+|    12 | Kör    |
+|    13 | Kör    |
+|    14 | K-BUSS |
+|    15 |        |
+|    16 | WL     |
+|-------+--------|
+|    17 | FX-L   |
+|    18 | FX-R   |
+|    19 |        |
+|    20 |        |
+|    21 |        |
+|    22 |        |
+|    23 |        |
+|    24 |        |
+|-------+--------|
+|    25 |        |
+|    26 |        |
+|    27 |        |
+|    28 |        |
+|    29 |        |
+|    30 |        |
+|    31 |        |
+|    32 |        |
+|-------+--------|
+|    33 |        |
+|    34 |        |
+|    35 |        |
+|    36 |        |
+|    37 |        |
+|    38 |        |
+|    39 |        |
+|    40 |        |
+|-------+--------|
+|    41 |        |
+|    42 |        |
+|    43 |        |
+|    44 |        |
+|    45 |        |
+|    46 |        |
+|    47 |        |
+|    48 |        |
+|-------+--------|
